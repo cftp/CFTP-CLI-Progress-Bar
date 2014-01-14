@@ -1,0 +1,16 @@
+{
+    "name": "cftp/cli-progress-bar",
+    "description": "A modified WP CLI progress bar",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Tom J Nowell",
+            "email": "contact@tomjn.com"
+        }
+    ],
+     "autoload"    : {
+        "classmap": [
+            ""
+        ]
+    }
+}
